@@ -28,20 +28,5 @@
 
 ## Installation
 
-To use Shark Byte, clone the repository and follow the setup instructions below:
-
-```bash
-git clone https://github.com/yourusername/shark-byte-advanced-crypter.git
-cd shark-byte-advanced-crypter
-
-### Key Sections Explained:
-- **Overview**: Briefly introduces Shark Byte and its purpose.
-- **Features**: Lists the main capabilities of the crypter.
-- **Installation**: Provides instructions on how to clone the repository and set it up.
-- **Usage**: Gives an example command for using Shark Byte.
-- **Why Use Shark Byte?**: Explains the importance of the tool.
-- **Important Disclaimer**: Emphasizes the educational nature of the tool.
-- **Contributing**: Invites others to contribute to the project.
-- **License**: Specifies the licensing information.
-
-Feel free to customize the content and links to fit your project specifics!
+To use Shark Byte, you have to buy it or request it from the administrator.
+https://t.me/SharkByteCrypter
