@@ -1,6 +1,3 @@
-# SharkByte-Advanced-Crypter-Software
-SharkByte-Advanced-Crypter-Software
-
 # Shark Byte Advanced Crypter
 
 ![output-onlinepngtools](https://github.com/user-attachments/assets/a94c7fb1-dbc7-4ecd-9ce8-e3573f2345e9)
