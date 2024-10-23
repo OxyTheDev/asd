@@ -1,12 +1,10 @@
 # Shark Byte Advanced Crypter
 
-![output-onlinepngtools](https://github.com/user-attachments/assets/a94c7fb1-dbc7-4ecd-9ce8-e3573f2345e9)
-
-
 ## Overview
 
 ![Untitled](https://github.com/user-attachments/assets/01519a28-878a-4343-a121-0714dad9065c)
 
+![output-onlinepngtools](https://github.com/user-attachments/assets/a94c7fb1-dbc7-4ecd-9ce8-e3573f2345e9)
 
 **Shark Byte** is a powerful crypter and obfuscator designed to protect your software from reverse engineering and unauthorized access. It utilizes advanced encryption techniques and code obfuscation methods to ensure your applications remain secure.
 
